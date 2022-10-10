@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Ashkāsham",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Fayzabad",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Jurm",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Khandūd",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Rāghistān",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Wākhān",
+    "state_name": "Badakhshan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ghormach",
+    "state_name": "Badghis",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qala i Naw",
+    "state_name": "Badghis",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Baghlān",
+    "state_name": "Baghlan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+    "state_name": "Baghlan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Nahrīn",
+    "state_name": "Baghlan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Pul-e Khumrī",
+    "state_name": "Baghlan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Balkh",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Dowlatābād",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Khulm",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Lab-Sar",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Mazār-e Sharīf",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qarchī Gak",
+    "state_name": "Balkh",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Bāmyān",
+    "state_name": "Bamyan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Panjāb",
+    "state_name": "Bamyan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Nīlī",
+    "state_name": "Daykundi",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Farah",
+    "state_name": "Farah",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Andkhoy",
+    "state_name": "Faryab",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Maymana",
+    "state_name": "Faryab",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ghazni",
+    "state_name": "Ghazni",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Fayrōz Kōh",
+    "state_name": "Ghōr",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Shahrak",
+    "state_name": "Ghōr",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "‘Alāqahdārī Dīshū",
+    "state_name": "Helmand",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Gereshk",
+    "state_name": "Helmand",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Lashkar Gāh",
+    "state_name": "Helmand",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Markaz-e Ḩukūmat-e Darwēshān",
+    "state_name": "Helmand",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Sangīn",
+    "state_name": "Helmand",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Chahār Burj",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ghōriyān",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Herāt",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kafir Qala",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Karukh",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kuhsān",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kushk",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qarah Bāgh",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Shīnḏanḏ",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Tīr Pul",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Zindah Jān",
+    "state_name": "Herat",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Āqchah",
+    "state_name": "Jowzjan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Darzāb",
+    "state_name": "Jowzjan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qarqīn",
+    "state_name": "Jowzjan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Shibirghān",
+    "state_name": "Jowzjan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kabul",
+    "state_name": "Kabul",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Mīr Bachah Kōṯ",
+    "state_name": "Kabul",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Paghmān",
+    "state_name": "Kabul",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kandahār",
+    "state_name": "Kandahar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Sidqābād",
+    "state_name": "Kapisa",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Khōst",
+    "state_name": "Khost",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Asadabad",
+    "state_name": "Kunar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Āsmār",
+    "state_name": "Kunar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Dasht-e Archī",
+    "state_name": "Kunduz Province",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Imām Şāḩib",
+    "state_name": "Kunduz Province",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Khanabad",
+    "state_name": "Kunduz Province",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Kunduz",
+    "state_name": "Kunduz Province",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qarāwul",
+    "state_name": "Kunduz Province",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Mehtar Lām",
+    "state_name": "Laghman",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Baraki Barak",
+    "state_name": "Logar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ḩukūmatī Azrah",
+    "state_name": "Logar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Pul-e ‘Alam",
+    "state_name": "Logar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Bāsawul",
+    "state_name": "Nangarhar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Jalālābād",
+    "state_name": "Nangarhar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Markaz-e Woluswalī-ye Āchīn",
+    "state_name": "Nangarhar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Khāsh",
+    "state_name": "Nimruz",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Mīrābād",
+    "state_name": "Nimruz",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Rūdbār",
+    "state_name": "Nimruz",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Zaranj",
+    "state_name": "Nimruz",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Pārūn",
+    "state_name": "Nuristan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Gardez",
+    "state_name": "Paktia",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Saṟōbī",
+    "state_name": "Paktika",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Zaṟah Sharan",
+    "state_name": "Paktika",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Zarghūn Shahr",
+    "state_name": "Paktika",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Bāzārak",
+    "state_name": "Panjshir",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Charikar",
+    "state_name": "Parwan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Jabal os Saraj",
+    "state_name": "Parwan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Aībak",
+    "state_name": "Samangan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Chīras",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Larkird",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qal‘ah-ye Shahr",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Sang-e Chārak",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Sar-e Pul",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Tagāw-Bāy",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Tukzār",
+    "state_name": "Sar-e Pol",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Ārt Khwājah",
+    "state_name": "Takhar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Taloqan",
+    "state_name": "Takhar",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Tarinkot",
+    "state_name": "Urozgan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Uruzgān",
+    "state_name": "Urozgan",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  },
+  {
+    "name": "Qalāt",
+    "state_name": "Zabul",
+    "country_code": "AF",
+    "country_name": "Afghanistan"
+  }
+]

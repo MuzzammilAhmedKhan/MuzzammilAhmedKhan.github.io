@@ -7,7 +7,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Contact Page</title>
+    <title>Video Content</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,9 +24,10 @@
     <link href="css/bootstrap-icons.css" rel="stylesheet" />
 
     <link href="css/templatemo-topic-listing.css" rel="stylesheet" />
+    
   </head>
 
-  <body class="topics-listing-page" id="top">
+  <body id="top">
     <main>
       <nav class="navbar navbar-expand-lg">
         <div class="container">
@@ -71,8 +72,12 @@
                 >
               </li>
 
+              
+
               <li class="nav-item">
-                <a class="nav-link click-scroll" href="contact.html">Contact</a>
+                <a class="nav-link click-scroll" href="index.html#section_5"
+                  >Contact</a
+                >
               </li>
 
               <li class="nav-item dropdown">
@@ -96,9 +101,12 @@
                     >
                   </li>
 
+                  
                 </ul>
               </li>
             </ul>
+
+            
           </div>
         </div>
       </nav>
@@ -107,8 +115,8 @@
         class="site-header d-flex flex-column justify-content-center align-items-center"
       >
         <div class="container">
-          <div class="row align-items-center">
-            <div class="col-lg-5 col-12">
+          <div class="row justify-content-center align-items-center">
+            <div class="col-lg-5 col-12 mb-5">
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                   <li class="breadcrumb-item">
@@ -116,113 +124,115 @@
                   </li>
 
                   <li class="breadcrumb-item active" aria-current="page">
-                    Contact Form
+                    Video Content
                   </li>
                 </ol>
               </nav>
 
-              <h2 class="text-white">Contact Form</h2>
+              <h2 class="text-white">
+                Introduction to <br />
+                Video Content 101
+              </h2>
+
+              <div class="d-flex align-items-center mt-5">
+                <a
+                  href="#topics-detail"
+                  class="btn custom-btn custom-border-btn smoothscroll me-4"
+                  >Read More</a
+                >
+
+                <a href="#top" class="custom-icon bi-bookmark smoothscroll"></a>
+              </div>
+            </div>
+
+            <div class="col-lg-5 col-12">
+              <div class="topics-detail-block bg-white shadow-lg">
+                <img
+                  src="images\custom\web design.png"
+                  class="topics-detail-block-image img-fluid"
+                />
+              </div>
             </div>
           </div>
         </div>
       </header>
 
-      <section class="section-padding section-bg">
+      <section class="topics-detail-section section-padding" id="topics-detail">
         <div class="container">
           <div class="row">
-            <div class="col-lg-12 col-12">
-              <h3 class="mb-4 pb-2">We'd love to hear from you</h3>
+            <div class="col-lg-8 col-12 m-auto">
+              <h3 class="mb-4">Introduction to Video Content</h3>
+
+              <p>
+                Video content is a powerful medium for communication and
+                engagement. It conveys information, emotions, and narratives
+                effectively, making it a popular choice for marketing,
+                education, entertainment, and storytelling.
+              </p>
+
+              <p>
+                With the rise of platforms like YouTube, TikTok, and streaming
+                services, video content has become accessible and versatile.
+                Businesses, creators, and educators use it to connect with
+                audiences, foster brand loyalty, and convey complex ideas.
+              </p>
+
+              <!-- <blockquote>
+                                Freelancing your skills isn’t going to make you a millionaire overnight.
+                            </blockquote>
+
+                            <div class="row my-4">
+                                <div class="col-lg-6 col-md-6 col-12">
+                                    <img src="images/businesswoman-using-tablet-analysis.jpg" class="topics-detail-block-image img-fluid">
+                                </div>
+
+                                <div class="col-lg-6 col-md-6 col-12 mt-4 mt-lg-0 mt-md-0">
+                                    <img src="images/colleagues-working-cozy-office-medium-shot.jpg" class="topics-detail-block-image img-fluid">
+                                </div>
+                            </div>
+
+                            <p>Most people start with freelancing skills they already have as a side hustle to build up income. This extra cash can be used for a vacation, to boost up savings, investing, build business.</p> -->
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-padding section-bg">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-5 col-12">
+              <img
+                src="images/rear-view-young-college-student.jpg"
+                class="newsletter-image img-fluid"
+                alt=""
+              />
             </div>
 
-            <div class="col-lg-6 col-12">
+            <div
+              class="col-lg-5 col-12 subscribe-form-wrap d-flex justify-content-center align-items-center"
+            >
               <form
+                class="custom-form subscribe-form"
                 action="#"
                 method="post"
-                class="custom-form contact-form"
                 role="form"
               >
-                <div class="row">
-                  <div class="col-lg-6 col-md-6 col-12">
-                    <div class="form-floating">
-                      <input
-                        type="text"
-                        name="name"
-                        id="name"
-                        class="form-control"
-                        placeholder="Name"
-                        required=""
-                      />
+                <h4 class="mb-4 pb-2">Get Newsletter</h4>
 
-                      <label for="floatingInput">Name</label>
-                    </div>
-                  </div>
+                <input
+                  type="email"
+                  name="subscribe-email"
+                  id="subscribe-email"
+                  pattern="[^ @]*@[^ @]*"
+                  class="form-control"
+                  placeholder="Email Address"
+                  required=""
+                />
 
-                  <div class="col-lg-6 col-md-6 col-12">
-                    <div class="form-floating">
-                      <input
-                        type="email"
-                        name="email"
-                        id="email"
-                        pattern="[^ @]*@[^ @]*"
-                        class="form-control"
-                        placeholder="Email address"
-                        required=""
-                      />
-
-                      <label for="floatingInput">Email address</label>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-12 col-12">
-                    <div class="form-floating">
-                      <input
-                        type="text"
-                        name="subject"
-                        id="name"
-                        class="form-control"
-                        placeholder="Name"
-                        required=""
-                      />
-
-                      <label for="floatingInput">Subject</label>
-                    </div>
-
-                    <div class="form-floating">
-                      <textarea
-                        class="form-control"
-                        id="message"
-                        name="message"
-                        placeholder="Tell me about the project"
-                      ></textarea>
-
-                      <label for="floatingTextarea"
-                        >Tell us about the project</label
-                      >
-                    </div>
-                  </div>
-
-                  <div class="col-lg-4 col-12 ms-auto">
-                    <button type="submit" class="form-control">Submit</button>
-                  </div>
+                <div class="col-lg-12 col-12">
+                  <button type="submit" class="form-control">Subscribe</button>
                 </div>
               </form>
-            </div>
-
-            <div class="col-lg-5 col-12 mx-auto mt-5 mt-lg-0">
-              <iframe
-                class="google-map"
-                src="https://www.google.com/maps/d/embed?mid=1JCo8Z3jMDO56wZxH0mzgxQaW6Cg&hl=en_US&ehbc=2E312F"
-                width="100%"
-                height="250"
-                style="border: 0"
-                allowfullscreen=""
-                loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
-              ></iframe>
-
-              <h5 class="mt-4 mb-2">Uni</h5>
-
-              <p>Malakpet, Hyderabad</p>
             </div>
           </div>
         </div>
@@ -251,6 +261,7 @@
                 <a href="#" class="site-footer-link">How it works</a>
               </li>
 
+              
 
               <li class="site-footer-link-item">
                 <a href="#" class="site-footer-link">Contact</a>
@@ -286,12 +297,13 @@
               </button>
 
               <ul class="dropdown-menu">
+                
               </ul>
             </div>
 
             <p class="copyright-text mt-lg-5 mt-4">
               Copyright © 2048 UNI. All rights reserved.
-            </p>
+              </p>
           </div>
         </div>
       </div>

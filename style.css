@@ -1,0 +1,90 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* Header & Navigation */
+  header {
+    background-color: #003366;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  header h1 {
+    margin: 5px 0;
+  }
+  #logo {
+    float: left;
+    margin-right: 20px;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 15px;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Clear floats */
+  header::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Sections */
+  section {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  section h2 {
+    color: #003366;
+  }
+  
+  /* Form Styling */
+  form label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  form input[type="text"],
+  form input[type="email"],
+  form textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  form input[type="submit"] {
+    background-color: #003366;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #003366;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  

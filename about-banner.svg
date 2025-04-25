@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (Dark Steel Gradient) -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a2a3a; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a4a6a; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGradient)" />
+
+  <!-- Decorative Steel Beams -->
+  <rect x="50" y="100" width="700" height="10" fill="#555" rx="2" />
+  <rect x="50" y="450" width="700" height="10" fill="#555" rx="2" />
+  
+  <!-- Factory Illustration -->
+  <path d="M150,250 L150,180 L200,150 L250,180 L250,250 L300,250 L300,150 L350,120 L400,150 L400,250 L450,250 L450,200 L500,170 L550,200 L550,250" 
+        fill="#333" stroke="#ff6600" stroke-width="2" />
+  
+  <!-- Steel Coils (Decorative Elements) -->
+  <circle cx="650" cy="200" r="40" fill="none" stroke="#aaa" stroke-width="15" stroke-dasharray="5,5" />
+  <circle cx="650" cy="200" r="25" fill="none" stroke="#aaa" stroke-width="10" stroke-dasharray="3,3" />
+  
+  <!-- "About Us" Header -->
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">ABOUT OUR STEEL FACTORY</text>
+  
+  <!-- Mission Statement Box -->
+  <rect x="100" y="280" width="600" height="120" rx="5" fill="#222" opacity="0.8" stroke="#ff6600" stroke-width="2" />
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-style="italic">
+    <tspan x="400" dy="0">Founded in 1996, we specialize in high-quality steel manufacturing,</tspan>
+    <tspan x="400" dy="25">serving industries from construction to automotive. Our commitment</tspan>
+    <tspan x="400" dy="25">to innovation and sustainability drives every beam, coil, and sheet we produce.</tspan>
+  </text>
+  
+  <!-- Key Features (Icons + Text) -->
+  <g font-family="Arial, sans-serif" font-size="14" fill="#ddd">
+    <text x="120" y="425">Premium Quality Standards</text>
+    
+    <text x="320" y="425">Innovative Manufacturing</text>
+    
+    <text x="520" y="425">Global Supply Network</text>
+  </g>
+</svg> 
